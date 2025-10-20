@@ -1,2 +1,3 @@
+Set of python scripts to convert/prepare input files for DFT-FE
 
 POSCAR -> DFT-FE input converter
