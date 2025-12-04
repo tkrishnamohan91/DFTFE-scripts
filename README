@@ -1,2 +1,4 @@
 
 POSCAR -> DFT-FE input converter
+
+DFT-FE -> POSCAR input converter
